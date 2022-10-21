@@ -1,0 +1,16 @@
+{
+"name": "winlotto",
+"theme": "winlotto",
+"version": "1.1.7",
+"description": "winlotto สมัครเว็บสล็อตเว็บตรง อันดับ 1 รับเครดิตฟรี",
+"keywords": [
+"winlotto",
+"winlotto เครดิตฟรี",
+"winlotto ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/winlotto",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
